@@ -2,6 +2,6 @@
 
 I'm a web & Android designer and developer
 
-* I'm currently learning React Native .
-* Ask me about Web , Android development .
+* Currently learning React Native.
+* Ask me about Web and Android development.
 * How to reach me : dev.saifmalik@gmail.com . 
