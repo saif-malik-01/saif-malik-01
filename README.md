@@ -11,4 +11,4 @@ I'm a web & Android designer and developer
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=saif-malik-01&show_icons=true&theme=radical)
 
 
-![Visitor Count](https://profile-counter.glitch.me/{YOUR USER}/count.svg)
+![Visitor Count](https://profile-counter.glitch.me/saif-malik-01/count.svg)
